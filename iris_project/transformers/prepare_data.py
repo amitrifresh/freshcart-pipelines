@@ -1,7 +1,7 @@
 from sklearn.model_selection import train_test_split
 
 
-def transform(df, test_size=0.3, random_state=42):
+def transform(df, test_size=0.2, random_state=42):
     """Return the Iris rows with a deterministic train/test split label.
 
     The input DataFrame is not modified. The returned DataFrame has a new
