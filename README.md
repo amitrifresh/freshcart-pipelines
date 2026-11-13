@@ -33,7 +33,7 @@ git remote add origin https://github.com/YOUR_GITHUB_USERNAME/freshcart-pipeline
 git push -u origin main
 ```
 
-Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
+
 
 ## Important
 
