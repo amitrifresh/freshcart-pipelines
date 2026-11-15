@@ -1,4 +1,4 @@
-# Mage Iris ML Pipeline (Part C)
+# Mage Iris ML Pipeline
 
 Build the Mage pipeline here. The starter `transformers/prepare_data.py` is
 also imported by the standalone pytest test in `tests/test_prepare_data.py`.
