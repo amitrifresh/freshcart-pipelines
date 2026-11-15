@@ -1,4 +1,4 @@
-# RabbitMQ Food-order Stream (Part D)
+# RabbitMQ Food-order Stream
 
 Add `dispatcher.py` and `driver.py` here when implementing Part D.
 
